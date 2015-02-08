@@ -1,0 +1,21 @@
+.col, .coltwo {line-height: 15px;
+	letter-spacing: 10px;
+	float: left;
+	width: 20%;
+}
+
+.gutter {padding-left: 40px;
+	padding-right: 40px;
+}
+
+#inline {float:left;
+}
+
+#text{letter-spacing: 20px;
+line-height: 15px;
+}
+
+.nav{list-style: none;
+padding: 0;
+display: inline;
+}
